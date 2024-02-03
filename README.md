@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [DIMA MAZUREK]! 👋
 
 ### 🔭 Currently working on
 - Developing exciting web applications using React and Flask frameworks.
