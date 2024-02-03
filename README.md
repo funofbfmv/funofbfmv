@@ -1,31 +1,19 @@
 # Hi there, I'm DIMA MAZUREK! 👋
 
-### 🔭 Currently working on
-- Developing exciting web applications using React and Flask frameworks.
+🔭 **Working on:** Developing web applications with React and Flask.
 
-### 🌱 Currently learning
-- Expanding my skills in web development, exploring new technologies and approaches.
+🌱 **Currently learning:** Expanding skills in web development.
 
-### 👯 Looking to collaborate on
-- Open to collaborating with like-minded individuals in the field of web development and programming.
+👯 **Looking to collaborate on:** Web development and programming projects.
 
-### 🤔 Seeking help with
-- Advancing skills and knowledge in the field of development. Open to sharing experiences and advice.
+🤔 **Seeking help with:** Advancing development skills.
 
-### 💬 Ask me about
-- Happy to answer any questions about web development, Python, React, Flask, Django, and more.
+💬 **Ask me about:** Web development, Python, React, Flask, Django, and more.
 
-### 📫 How to reach me
-- [dima.mazurek94@gmail.com]
-- [instagram.com/mason_mzk]
+📫 **How to reach me:** [dima.mazurek94@gmail.com], [instagram.com/mason_mzk]
 
-### 😄 Pronouns
-- He/him
+😄 **Pronouns:** He/him
 
-### ⚡ Fun fact
-- Love creating creative projects and constantly seeking inspiration in new technologies.
+⚡ **Fun fact:** Love creating creative projects and finding inspiration in new technologies.
 
-### 🛠️ Technologies and Tools
-- HTML, CSS, JavaScript
-- Python, Flask, Django
-- React, Tailwind CSS
+🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
