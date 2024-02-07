@@ -1,4 +1,4 @@
-# Hi there, I'm DIMA MAZUREK! 👋
+# Hi there, I'm Mason_MzK! 👋
 
 🔭 **Working on:** Developing web applications with React and Flask.
 
