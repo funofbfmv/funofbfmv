@@ -1,6 +1,6 @@
-# Hi there, I'm Mason_MzK! 👋
+# Hi there, I'm Dmitriy 👋
 
-🔭 **Working on:** Developing web applications with React and Flask.
+🔭 **Working on:** Developing web applications with React and Django.
 
 🌱 **Currently learning:** Expanding skills in web development.
 
@@ -10,10 +10,8 @@
 
 💬 **Ask me about:** Web development, Python, React, Flask, Django, and more.
 
-📫 **How to reach me:** [dima.mazurek94@gmail.com], [instagram.com/mason_mzk]
+📫 **How to reach me:** [dima.mazurek94@gmail.com], [instagram.com/mason_mzk], [t.me/mason_mzk]
 
-😄 **Pronouns:** He/him
-
-⚡ **Fun fact:** Love creating creative projects and finding inspiration in new technologies.
+😄 **Pronouns:** He/his/him
 
 🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
