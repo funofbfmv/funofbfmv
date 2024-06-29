@@ -15,3 +15,6 @@
 😄 **Pronouns:** He/his/him
 
 🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
