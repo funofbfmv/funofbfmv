@@ -16,7 +16,8 @@
 
 🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=#1630c)
+[![Dmitriy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/funofbfmv/github-readme-stats#gh-dark-mode-only)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
