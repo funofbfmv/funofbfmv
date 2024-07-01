@@ -22,11 +22,12 @@
 ## Technologies:
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, UI Components
 - **Backend:** Python, Flask, Django
+- **API:** Rest, Graphql
 - **DevOps:** ProxMox, Docker, Nginx, Nginx Reverse Proxy
 - **Databases:** MySQL, Sqllite3
 
 ## Currently learning:
-- Graphql, Go
+- GoLang
 
 ## Contacts:
 <div align="center" id="badges">
