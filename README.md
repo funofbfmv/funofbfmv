@@ -22,7 +22,7 @@
 ## Technologies:
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, UI Components
 - **Backend:** Python, Flask, Django
-- **DevOps:** Docker, Nginx
+- **DevOps:** ProxMox, Docker, Nginx, Nginx Reverse Proxy
 - **Databases:** MySQL, Sqllite3
 
 ## Currently learning:
