@@ -20,10 +20,10 @@
 # Hi there, I'm Dmitriy 👋
 
 ## Technologies:
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, UI Components
 - **Backend:** Python, Flask, Django
 - **DevOps:** Docker, Nginx
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, Sqllite3
 
 ## Currently learning:
 - Graphql, Go
