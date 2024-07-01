@@ -4,31 +4,28 @@
 
 # Hi there, I'm Dmitriy 👋
 
-🔭 **Working on:** Developing web applications with React and Django.
+## Technologies:
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Python, Flask, Django
+- **DevOps:** Docker, Nginx
+- **Databases:** MySQL, PostgreSQL
 
-🌱 **Currently learning:** Expanding skills in web development.
+## Currently learning:
+- Expanding skills in web development
 
-👯 **Looking to collaborate on:** Web development and programming projects.
+## Seeking help with:
+- Advancing development skills
 
-🤔 **Seeking help with:** Advancing development skills.
+## Pronouns:
+- He/his/him
 
-💬 **Ask me about:** Web development, Python, React, Flask, Django, and more.
-
-😄 **Pronouns:** He/his/him
-
-🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
-
- **📫 Contacts**
- 
+## Contacts:
 <div align="center" id="badges">
   <a href="https://t.me/mason_mzk">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <div style="padding-bottom: 20px;"></div>
 </div>
-
 
 [![Dmitriy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/funofbfmv/github-readme-stats#gh-dark-mode-only)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
