@@ -20,15 +20,10 @@
 
 🛠️ **Technologies and Tools:** HTML, CSS, JavaScript, Python, Flask, Django, React, Tailwind CSS.
 
-<div id="badges">
+ **Contact with me**
+<div align="center" id="badges">
   <a href="https://t.me/mason_mzk">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
