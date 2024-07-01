@@ -30,11 +30,13 @@
 ## Currently learning:
 - GoLang
 
+## Currently learning:
+- GoLang
+
 <table style="width:100%">
   <tr>
     <td style="text-align:left; vertical-align:top;">
-      
-      - GoLang
+      GoLang
     </td>
     <td style="text-align:right;">
       <div id="header">
