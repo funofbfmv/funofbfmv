@@ -5,7 +5,7 @@
 
 ## Technologies:
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Python, Flask, Django
+- **Backend:** Python, Nodejs, Express, Flask, Django
 - **DevOps:** Docker, Nginx
 - **Databases:** MySQL, PostgreSQL
 
