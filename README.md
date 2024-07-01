@@ -33,7 +33,7 @@
 <table style="width:100%">
   <tr>
     <td style="text-align:left; vertical-align:top;">
-      ## Currently learning:
+      
       - GoLang
     </td>
     <td style="text-align:right;">
