@@ -35,6 +35,4 @@
   </a>
 </div>
 
-[![Dmitriy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/funofbfmv/github-readme-stats#gh-dark-mode-only)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true)](https://git.io/streak-stats)
