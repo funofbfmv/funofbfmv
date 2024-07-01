@@ -23,10 +23,7 @@
 - **API:** Rest, Graphql
 - **DevOps:** ProxMox, Docker, Nginx, Nginx Reverse Proxy
 - **Databases:** MySQL, SQLite3
-- 
-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+  
 
 ## Currently learning:
 - GoLang
@@ -46,7 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=radical" alt="GitHub Trophies" />
