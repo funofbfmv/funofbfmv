@@ -26,19 +26,7 @@
 - **Databases:** MySQL, PostgreSQL
 
 ## Currently learning:
-- Expanding skills in web development
-
-## Looking to collaborate on:
-- Web development and programming projects
-
-## Seeking help with:
-- Advancing development skills
-
-## Ask me about:
-- Web development, Python, React, Flask, Django
-
-## Pronouns:
-- He/his/him
+- Graphql, Go
 
 ## Contacts:
 <div align="center" id="badges">
