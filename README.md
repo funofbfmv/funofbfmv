@@ -1,3 +1,5 @@
+# Hi there, I'm Dmitriy 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,7 +16,6 @@
   </a>
 </div>
 
-# Hi there, I'm Dmitriy 👋
 
 ## Technologies:
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, UI Components
@@ -22,11 +23,15 @@
 - **API:** Rest, Graphql
 - **DevOps:** ProxMox, Docker, Nginx, Nginx Reverse Proxy
 - **Databases:** MySQL, SQLite3
+- 
+- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## Currently learning:
 - GoLang
 
-## Contacts:
+## My GitHub stats:
 <div align="center" id="badges">
   <a href="https://t.me/mason_mzk">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -41,9 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=radical" alt="GitHub Trophies" />
