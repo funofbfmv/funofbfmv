@@ -2,9 +2,7 @@
 
 ![software-software-development](https://github.com/funofbfmv/funofbfmv/assets/58478428/a8f53304-610e-450c-8999-607415740f5e)
 
-<div id="header align="center height=100 width=100" >
-  ![software-software-development](https://github.com/funofbfmv/funofbfmv/assets/58478428/a8f53304-610e-450c-8999-607415740f5e)
-</div>
+
 
 
 
