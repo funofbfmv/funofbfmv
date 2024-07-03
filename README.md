@@ -1,7 +1,7 @@
 # Hi there, I'm Dmitriy 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="100"/>
+  <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="100"/>
 </div>
 
 
