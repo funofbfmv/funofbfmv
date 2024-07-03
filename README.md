@@ -30,56 +30,28 @@
 
 
 ## Currently learning:
-- GoLang
-- Python
-- JavaScript
-- Rust
-
 <table style="width:100%">
   <tr>
-    <td style="text-align:left; vertical-align:top;">
-      GoLang
-    </td>
-    <td style="text-align:right;">
+    <td style="text-align:center; vertical-align:top;">
+      <b>GoLang</b>
       <div id="header">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNsaDR4bGNtMXpleng1b2t6MWlhYmF2dGJqdGsyeTgzczJ2OGFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="100" height="100"/>
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:left; vertical-align:top;">
-      Python
-    </td>
-    <td style="text-align:right;">
+    <td style="text-align:center; vertical-align:top;">
+      <b>Python</b>
       <div id="header">
         <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"/>
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:left; vertical-align:top;">
-      JavaScript
-    </td>
-    <td style="text-align:right;">
+    <td style="text-align:center; vertical-align:top;">
+      <b>JavaScript</b>
       <div id="header">
         <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" height="100"/>
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:left; vertical-align:top;">
-      Rust
-    </td>
-    <td style="text-align:right;">
+    <td style="text-align:center; vertical-align:top;">
+      <b>Rust</b>
       <div id="header">
         <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="100" height="100"/>
       </div>
