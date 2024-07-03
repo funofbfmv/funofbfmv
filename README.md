@@ -1,8 +1,9 @@
 # Hi there, I'm Dmitriy 👋
 
-![1000](https://github.com/funofbfmv/funofbfmv/assets/58478428/2d1d0b7a-d580-4b7c-b742-89dd7d7c9cbb)
 
 
+
+![work-computer](https://github.com/funofbfmv/funofbfmv/assets/58478428/6c757c57-1092-4c67-bf82-bf44c0b0385c)
 
 
 
