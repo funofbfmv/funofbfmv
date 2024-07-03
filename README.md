@@ -39,19 +39,19 @@
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <b>Python</b>
+      <b>Python Advanced</b>
       <div id="header">
         <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"/>
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <b>JavaScript</b>
+      <b>NodeJs Advanced</b>
       <div id="header">
         <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" height="100"/>
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <b>Rust</b>
+      <b>Postgre</b>
       <div id="header">
         <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="100" height="100"/>
       </div>
