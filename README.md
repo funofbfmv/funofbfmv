@@ -1,4 +1,5 @@
 # Hi there, I'm Dmitriy 👋
+![software-software-development](https://github.com/funofbfmv/funofbfmv/assets/58478428/a8f53304-610e-450c-8999-607415740f5e)
 
 <div id="header align="center height=100" >
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmMHIzcm02enR5Z25lYXlrYmFxcDR3NTBrcmRhbmYwZDl0NzhsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100"/>
