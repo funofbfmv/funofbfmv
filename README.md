@@ -27,8 +27,6 @@
 - **Databases:** MySQL, SQLite3
   
 
-## Currently learning:
-- GoLang
 
 ## Currently learning:
 - GoLang
