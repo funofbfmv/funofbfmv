@@ -1,11 +1,10 @@
 # Hi there, I'm Dmitriy 👋
 
-
-
-
-<a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a>
-
-
+<div style="text-align:center; width:100%;">
+  <a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="width:100%;" alt="Developer gif">
+  </a>
+</div>
 
 
 <div id="badges" align="center">
