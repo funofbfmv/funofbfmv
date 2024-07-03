@@ -1,6 +1,7 @@
 # Hi there, I'm Dmitriy 👋
 
-![software-software-development](https://github.com/funofbfmv/funofbfmv/assets/58478428/a8f53304-610e-450c-8999-607415740f5e)
+![1000](https://github.com/funofbfmv/funofbfmv/assets/58478428/2d1d0b7a-d580-4b7c-b742-89dd7d7c9cbb)
+
 
 
 
