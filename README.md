@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="width: 100%; max-width: 600px;" alt="Developer gif">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="width: 100%; max-width: 1000px;" alt="Developer gif">
   </a>
 </div>
 
