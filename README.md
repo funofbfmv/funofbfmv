@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitriy 👋
 
-<div id="header align="center" >
+<div id="header align="center height=100" >
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmMHIzcm02enR5Z25lYXlrYmFxcDR3NTBrcmRhbmYwZDl0NzhsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100"/>
 </div>
 
