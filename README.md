@@ -43,7 +43,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><br>React
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind CSS
+      <img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/><br>Material UI
