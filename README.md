@@ -71,7 +71,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/><br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" title="REST" alt="REST" width="40" height="40"/><br>REST
+      <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" title="REST" alt="REST" width="40" height="40"/><br>REST
     </td>
     <!-- Empty cells to balance the row -->
     <td align="center" width="96"></td>
