@@ -27,9 +27,12 @@
 - **DevOps:** ProxMox, Docker, Nginx, Nginx Reverse Proxy
 - **Databases:** MySQL, SQLite3
 
-  <table>
+<table>
+  <!-- Frontend -->
   <tr>
-    <!-- Frontend -->
+    <th colspan="6" align="center">Frontend</th>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><br>HTML5
     </td>
@@ -49,8 +52,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/><br>Material UI
     </td>
   </tr>
+
+  <!-- Backend -->
   <tr>
-    <!-- Backend -->
+    <th colspan="6" align="center">Backend</th>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><br>Python
     </td>
@@ -65,8 +72,12 @@
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
+
+  <!-- API -->
   <tr>
-    <!-- API -->
+    <th colspan="6" align="center">API</th>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/><br>GraphQL
     </td>
@@ -79,8 +90,12 @@
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
+
+  <!-- DevOps -->
   <tr>
-    <!-- DevOps -->
+    <th colspan="6" align="center">DevOps</th>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://camo.githubusercontent.com/933c02d3ad7efdb54282090b3a5b2072e6a5c9212751397604de18f70a202572/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67" title="ProxMox" alt="ProxMox" width="40" height="40"/><br>ProxMox
     </td>
@@ -95,8 +110,12 @@
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
+
+  <!-- Databases -->
   <tr>
-    <!-- Databases -->
+    <th colspan="6" align="center">Databases</th>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/><br>MySQL
     </td>
