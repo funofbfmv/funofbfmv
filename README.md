@@ -82,7 +82,7 @@
   <tr>
     <!-- DevOps -->
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" title="ProxMox" alt="ProxMox" width="40" height="40"/><br>ProxMox
+      <img src="https://camo.githubusercontent.com/933c02d3ad7efdb54282090b3a5b2072e6a5c9212751397604de18f70a202572/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67" title="ProxMox" alt="ProxMox" width="40" height="40"/><br>ProxMox
     </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/><br>Docker
