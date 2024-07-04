@@ -1,7 +1,7 @@
 # Hi there, I'm Dmitriy 👋
 
 <div align="center">
-  <a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+  <a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ib9suypsxpli041vxjo0uv4kxlsd18uhvwpyp1d2&ep=v1_gifs_related&rid=giphy.gif&ct=g">
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="width: 100%; max-width: 600px;" alt="Developer gif">
   </a>
 </div>
