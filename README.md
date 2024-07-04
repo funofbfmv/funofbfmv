@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="width: 100%; max-width: 600px;" alt="Developer gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ0MWs1Z3N5MWRsaDBtb3JranExcTZ5MXBucjhxZXJndTBsOGlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width: 100%; max-width: 600px;" alt="Developer gif">
   </a>
 </div>
 
