@@ -41,7 +41,7 @@
     <td style="text-align:center; vertical-align:top;">
       <b>Python Advanced</b>
       <div id="header">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN2YmFodjQ0MWllaWh4dDZpMnZldDBneGVnMzl1bmJ1OTllaXNnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="100" height="100"/>
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"/>
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
