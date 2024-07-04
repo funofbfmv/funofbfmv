@@ -151,7 +151,7 @@
     <td style="text-align:center; vertical-align:top;">
       <b>Postgre</b>
       <div id="header">
-        <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="100" height="100"/>
+        <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-2048x2026-2lkx6hk5.png" width="100" height="100"/>
       </div>
     </td>
   </tr>
