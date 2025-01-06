@@ -6,20 +6,20 @@
   </a>
 </div>
 
-**Full Stack Web Developer**
+**Full Stack Web Developer | Passionate About Building Scalable Applications**
 
 ---
 
-### What I'm Doing
+### 🚀 What I'm Doing
 
-- Developing fullstack applications using React and Django.
-- Building and deploying scalable web apps with PostgreSQL and Docker.
-- Continuously improving my skills in backend development.
-- Learning about CI/CD pipelines for seamless deployment.
+- Developing fullstack applications using **React** and **Django**.
+- Building dynamic user interfaces with **Tailwind CSS**.
+- Working on scalable APIs with **PostgreSQL** and **Docker**.
+- Exploring **CI/CD pipelines** for smooth deployments.
 
 ---
 
-### Frontend tools
+### 🛠 Frontend tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -28,23 +28,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
 
-- React
-- Tailwind CSS
-- JavaScript
-- Zustand
-- Recoil
-- Axios
-- HTML & CSS
-- Git
+- **React**, **Tailwind CSS**, **JavaScript**, **Zustand**, **Recoil**
+- **Axios**, **HTML & CSS**, **Git**
 
 ---
 
-### Backend tools
+### 🔧 Backend tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -56,17 +49,12 @@
 
 #### Tech Stack:
 
-- Django & DRF
-- PostgreSQL
-- Docker
-- Nginx
-- REST API
-- i18n
-- Git
+- **Django**, **DRF**, **PostgreSQL**, **Docker**, **Nginx**
+- **REST API**, **i18n**, **Git**
 
 ---
 
-### Projects Implemented
+### 🌟 Projects Implemented
 
 - **Dynamic Admin Panel**: Created a dynamic admin panel for managing news and media uploads with Django.
 - **Frontend Integration**: Integrated APIs from the backend into React frontend for real-time updates.
@@ -76,10 +64,21 @@
 
 ---
 
-### Contacts
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=radical" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📞 Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/dmitriy-mazurek-a69330247/)  
-- Gmail: dima.mazurek94@gmail.com  
+- Gmail: dmitriy.mazurek@gmail.com  
 - [Telegram](https://t.me/mason_mzk)  
 - **Portfolio Website** (coming soon!)  
 - **Location**: Turkmenistan, Ashgabat.
