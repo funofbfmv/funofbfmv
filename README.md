@@ -27,8 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/recoil/recoil-original.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/zustand/awesome-zustand/main/docs/zustand-logo.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/facebookexperimental/Recoil/main/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/s3/s3-original.svg" title="S3 MinIO" alt="S3 MinIO" width="40" height="40"/>
+  <img src="https://min.io/resources/img/logo.svg" title="S3 MinIO" alt="S3 MinIO" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
