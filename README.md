@@ -27,7 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/recoil/recoil-original.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
@@ -45,12 +46,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/s3/s3-original.svg" title="S3 MinIO" alt="S3 MinIO" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
 
 - **Django**, **DRF**, **PostgreSQL**, **Docker**, **Nginx**
-- **REST API**, **i18n**, **Git**
+- **REST API**, **S3 MinIO**, **i18n**, **Git**
+
+---
+
+### 🧰 Build Tools
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+</div>
+
+#### Tools:
+
+- **Vite**, **Webpack**
 
 ---
 
@@ -71,6 +86,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=radical" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 👁 Profile Viewers
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=green&style=flat" alt="Profile Viewers" />
 </div>
 
 ---
