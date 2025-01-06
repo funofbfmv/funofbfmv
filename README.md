@@ -38,8 +38,8 @@
 ### 🌀 State Management Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zustand/awesome-zustand/main/docs/zustand-logo.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/facebookexperimental/Recoil/main/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
+  <img src="https://static.platzi.com/media/user_upload/zustand-logo-9b98f0d6-e88e-4d48-8e07-bb9a5f0b3c00.jpg" title="Zustand" alt="Zustand" width="40" height="40"/>
+  <img src="https://recoiljs.org/img/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### State Management:
@@ -47,6 +47,7 @@
 - **Zustand**, **Recoil**
 
 ---
+
 
 ### 🔧 Backend tools
 
