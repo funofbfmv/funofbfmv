@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dmitriy-mazurek-a69330247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,8 +18,17 @@
   </a>
 </div>
 
+---
 
-## Technologies:
+## 🌐 About Me
+
+- 🔧 Full Stack Developer specializing in **React**, **Tailwind CSS**, **Django**, and **PostgreSQL**.
+- 📚 Actively learning **Node.js**, **Docker**, and **Advanced Python**.
+- 🏠 Based in Ashgabat, Turkmenistan.
+
+---
+
+## ⚙️ Technologies:
 
 <table>
   <!-- Frontend -->
@@ -57,30 +65,34 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/><br>Flask
-    </td>
-    <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/><br>Django
     </td>
-    <!-- Empty cells to balance the row -->
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/><br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/><br>Flask
+    </td>
     <td align="center" width="96"></td>
   </tr>
 
-  <!-- API -->
+  <!-- Databases -->
   <tr>
-    <th colspan="6" align="center">API</th>
+    <th colspan="6" align="center">Databases</th>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/><br>GraphQL
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" title="REST" alt="REST" width="40" height="40"/><br>REST
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/><br>MySQL
     </td>
-    <!-- Empty cells to balance the row -->
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/><br>SQLite
+    </td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
@@ -92,42 +104,24 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://camo.githubusercontent.com/933c02d3ad7efdb54282090b3a5b2072e6a5c9212751397604de18f70a202572/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67" title="ProxMox" alt="ProxMox" width="40" height="40"/><br>ProxMox
-    </td>
-    <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/><br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/><br>Nginx
     </td>
-    <!-- Empty cells to balance the row -->
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-  </tr>
-
-  <!-- Databases -->
-  <tr>
-    <th colspan="6" align="center">Databases</th>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/><br>MySQL
+      <img src="https://camo.githubusercontent.com/933c02d3ad7efdb54282090b3a5b2072e6a5c9212751397604de18f70a202572/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67" title="ProxMox" alt="ProxMox" width="40" height="40"/><br>ProxMox
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite" width="40" height="40"/><br>SQLite
-    </td>
-    <!-- Empty cells to balance the row -->
-    <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
 </table>
-  
 
+---
 
-## Currently learning:
+## 📚 Currently Learning:
+
 <table style="width:100%">
   <tr>
     <td style="text-align:center; vertical-align:top;">
@@ -143,13 +137,13 @@
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <b>Node Advanced</b>
+      <b>Node.js Advanced</b>
       <div id="header">
         <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="100" height="100"/>
       </div>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <b>Postgre</b>
+      <b>PostgreSQL</b>
       <div id="header">
         <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-2048x2026-2lkx6hk5.png" width="100" height="100"/>
       </div>
@@ -157,7 +151,9 @@
   </tr>
 </table>
 
-## My GitHub stats:
+---
+
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true" alt="GitHub Streak"/>
