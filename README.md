@@ -27,14 +27,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/zustand/awesome-zustand/main/docs/zustand-logo.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/facebookexperimental/Recoil/main/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
 
-- **React**, **Tailwind CSS**, **JavaScript**, **Zustand**, **Recoil**
-- **Axios**, **HTML & CSS**, **Git**
+- **React**, **Tailwind CSS**, **JavaScript**, **Axios**, **HTML & CSS**, **Git**
+
+---
+
+### 🌀 State Management Tools
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zustand/awesome-zustand/main/docs/zustand-logo.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/facebookexperimental/Recoil/main/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
+</div>
+
+#### State Management:
+
+- **Zustand**, **Recoil**
 
 ---
 
