@@ -38,7 +38,7 @@
 ### 🌀 State Management Tools
 
 <div align="center">
-  <img src="[https://velog.velcdn.com/images/jungmin211/post/d34e3fab-2d9f-4ee0-a99f-478b1e88025f/image.png" title="Zustand" alt="Zustand" width="40" height="40"/>
+  <img src="https://velog.velcdn.com/images/jungmin211/post/d34e3fab-2d9f-4ee0-a99f-478b1e88025f/image.png" title="Zustand" alt="Zustand" width="40" height="40"/>
   <img src="https://recoiljs.org/img/logo.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
