@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Recoil" alt="Recoil" width="40" height="40"/>
 </div>
 
 #### Tech Stack:
@@ -35,6 +36,8 @@
 - React
 - Tailwind CSS
 - JavaScript
+- Zustand
+- Recoil
 - Axios
 - HTML & CSS
 - Git
@@ -58,6 +61,7 @@
 - Docker
 - Nginx
 - REST API
+- i18n
 - Git
 
 ---
@@ -68,13 +72,14 @@
 - **Frontend Integration**: Integrated APIs from the backend into React frontend for real-time updates.
 - **Custom Maps Integration**: Implemented Yandex Maps API for supplier and branch location management.
 - **Responsive Design**: Built responsive interfaces using Tailwind CSS and React.
+- **i18n Support**: Integrated internationalization for multi-language support using i18n in React and Django.
 
 ---
 
 ### Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/dmitriy-mazurek-a69330247/)  
-- Gmail: serdargurbanmyradov953@gmail.com  
+- Gmail: dima.mazurek94@gmail.com  
 - [Telegram](https://t.me/mason_mzk)  
 - **Portfolio Website** (coming soon!)  
 - **Location**: Turkmenistan, Ashgabat.
