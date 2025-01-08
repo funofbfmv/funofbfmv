@@ -105,74 +105,80 @@
 
 <div style="text-align: center; font-family: monospace; margin: 20px 0;">
   <div style="display: inline-flex; gap: 5px; background: black; padding: 10px; border-radius: 5px;">
+    <!-- Блоки для чисел -->
     <div style="
-      width: 20px;
-      height: 30px;
+      width: 40px;
+      height: 50px;
       background: black;
       color: #00ff00;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid #00ff00;">
+      border: 2px solid #00ff00;
+      border-radius: 5px;">
       0
     </div>
     <div style="
-      width: 20px;
-      height: 30px;
+      width: 40px;
+      height: 50px;
       background: black;
       color: #00ff00;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid #00ff00;">
+      border: 2px solid #00ff00;
+      border-radius: 5px;">
       1
     </div>
     <div style="
-      width: 20px;
-      height: 30px;
+      width: 40px;
+      height: 50px;
       background: black;
       color: #00ff00;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid #00ff00;">
+      border: 2px solid #00ff00;
+      border-radius: 5px;">
       0
     </div>
     <div style="
-      width: 20px;
-      height: 30px;
+      width: 40px;
+      height: 50px;
       background: black;
       color: #00ff00;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid #00ff00;">
+      border: 2px solid #00ff00;
+      border-radius: 5px;">
       4
     </div>
     <div style="
-      width: 20px;
-      height: 30px;
+      width: 40px;
+      height: 50px;
       background: black;
       color: #00ff00;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid #00ff00;">
+      border: 2px solid #00ff00;
+      border-radius: 5px;">
       6
     </div>
   </div>
