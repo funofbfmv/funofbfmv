@@ -103,17 +103,22 @@
 
 ### 👁 Profile Viewers
 
-<div style="text-align: center; font-family: monospace; margin: 20px 0;">
-  <span id="profile-views" style="
-    background: black;
-    color: #00ff00;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 10px 15px;
-    border-radius: 5px;
-    border: 2px solid #00ff00;">
-    0
-  </span>
+<div style="text-align: center; margin: 20px 0;">
+  <div style="
+    display: inline-block; 
+    background: linear-gradient(135deg, #28a745, #218838);
+    padding: 15px 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  ">
+    <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=lightgrey&style=flat" 
+         alt="Profile Viewers" 
+         style="
+           display: block;
+           filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5));
+           border-radius: 4px;
+         " />
+  </div>
 </div>
 
 
