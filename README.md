@@ -103,18 +103,78 @@
 
 ### 👁 Profile Viewers
 
-<div style="text-align: center; margin: 20px 0;">
-  <div style="
-    display: inline-block; 
-    background-color: #28a745; 
-    color: white; 
-    font-size: 16px; 
-    font-family: Arial, sans-serif; 
-    padding: 10px 20px; 
-    border-radius: 25px; 
-    border: 2px solid #1e7e34; 
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);">
-    <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=lightgrey&style=flat" alt="Profile Viewers" />
+<div style="text-align: center; font-family: monospace; margin: 20px 0;">
+  <div style="display: inline-flex; gap: 5px; background: black; padding: 10px; border-radius: 5px;">
+    <div style="
+      width: 20px;
+      height: 30px;
+      background: black;
+      color: #00ff00;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #00ff00;">
+      0
+    </div>
+    <div style="
+      width: 20px;
+      height: 30px;
+      background: black;
+      color: #00ff00;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #00ff00;">
+      1
+    </div>
+    <div style="
+      width: 20px;
+      height: 30px;
+      background: black;
+      color: #00ff00;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #00ff00;">
+      0
+    </div>
+    <div style="
+      width: 20px;
+      height: 30px;
+      background: black;
+      color: #00ff00;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #00ff00;">
+      4
+    </div>
+    <div style="
+      width: 20px;
+      height: 30px;
+      background: black;
+      color: #00ff00;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #00ff00;">
+      6
+    </div>
   </div>
 </div>
 
