@@ -116,19 +116,6 @@
   </span>
 </div>
 
-<script>
-  // Замените "funofbfmv" на ваш GitHub username
-  const username = "funofbfmv";
-  const url = `https://komarev.com/ghpvc/?username=${username}&color=green&style=flat`;
-
-  fetch(url)
-    .then(() => {
-      // Обновление локального счетчика (пример)
-      const views = Math.floor(Math.random() * 10000); // Пример генерации случайного числа
-      document.getElementById("profile-views").textContent = views;
-    })
-    .catch((err) => console.error("Ошибка загрузки данных", err));
-</script>
 
 ---
 
