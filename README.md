@@ -103,9 +103,29 @@
 
 ### 👁 Profile Viewers
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=green&style=flat" alt="Profile Viewers" />
+<div style="text-align: center; margin: 20px 0;">
+  <div style="
+    display: inline-block; 
+    background-color: #4caf50; 
+    color: white; 
+    font-size: 14px; 
+    font-weight: bold; 
+    padding: 8px 15px; 
+    border-radius: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
+    👁️ Profile Views: <span id="profile-views" style="font-weight: normal;">0</span>
+  </div>
 </div>
+
+<script>
+  // Загружаем актуальное количество просмотров
+  const username = "funofbfmv"; // Ваш GitHub username
+  fetch(`https://api.countapi.xyz/get/komarev/${username}`)
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById("profile-views").textContent = data.value;
+    });
+</script>
 
 ---
 
