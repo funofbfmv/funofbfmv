@@ -104,85 +104,31 @@
 ### 👁 Profile Viewers
 
 <div style="text-align: center; font-family: monospace; margin: 20px 0;">
-  <div style="display: inline-flex; gap: 5px; background: black; padding: 10px; border-radius: 5px;">
-    <!-- Блоки для чисел -->
-    <div style="
-      width: 40px;
-      height: 50px;
-      background: black;
-      color: #00ff00;
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 2px solid #00ff00;
-      border-radius: 5px;">
-      0
-    </div>
-    <div style="
-      width: 40px;
-      height: 50px;
-      background: black;
-      color: #00ff00;
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 2px solid #00ff00;
-      border-radius: 5px;">
-      1
-    </div>
-    <div style="
-      width: 40px;
-      height: 50px;
-      background: black;
-      color: #00ff00;
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 2px solid #00ff00;
-      border-radius: 5px;">
-      0
-    </div>
-    <div style="
-      width: 40px;
-      height: 50px;
-      background: black;
-      color: #00ff00;
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 2px solid #00ff00;
-      border-radius: 5px;">
-      4
-    </div>
-    <div style="
-      width: 40px;
-      height: 50px;
-      background: black;
-      color: #00ff00;
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 2px solid #00ff00;
-      border-radius: 5px;">
-      6
-    </div>
-  </div>
+  <span id="profile-views" style="
+    background: black;
+    color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 2px solid #00ff00;">
+    0
+  </span>
 </div>
+
+<script>
+  // Замените "funofbfmv" на ваш GitHub username
+  const username = "funofbfmv";
+  const url = `https://komarev.com/ghpvc/?username=${username}&color=green&style=flat`;
+
+  fetch(url)
+    .then(() => {
+      // Обновление локального счетчика (пример)
+      const views = Math.floor(Math.random() * 10000); // Пример генерации случайного числа
+      document.getElementById("profile-views").textContent = views;
+    })
+    .catch((err) => console.error("Ошибка загрузки данных", err));
+</script>
 
 ---
 
