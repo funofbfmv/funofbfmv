@@ -106,26 +106,17 @@
 <div style="text-align: center; margin: 20px 0;">
   <div style="
     display: inline-block; 
-    background-color: #4caf50; 
+    background-color: #28a745; 
     color: white; 
-    font-size: 14px; 
-    font-weight: bold; 
-    padding: 8px 15px; 
-    border-radius: 20px; 
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
-    👁️ Profile Views: <span id="profile-views" style="font-weight: normal;">0</span>
+    font-size: 16px; 
+    font-family: Arial, sans-serif; 
+    padding: 10px 20px; 
+    border-radius: 25px; 
+    border: 2px solid #1e7e34; 
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);">
+    <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=lightgrey&style=flat" alt="Profile Viewers" />
   </div>
 </div>
-
-<script>
-  // Загружаем актуальное количество просмотров
-  const username = "funofbfmv"; // Ваш GitHub username
-  fetch(`https://api.countapi.xyz/get/komarev/${username}`)
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById("profile-views").textContent = data.value;
-    });
-</script>
 
 ---
 
