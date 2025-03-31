@@ -67,7 +67,7 @@
 ### 🔄 Background Processing & Caching
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Celery_Logo.svg/1024px-Celery_Logo.svg.png" title="Celery" alt="Celery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" title="Celery" alt="Celery" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
 </div>
 
