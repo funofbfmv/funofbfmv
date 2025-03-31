@@ -12,14 +12,15 @@
 
 ### 🚀 What I'm Doing
 
-- Developing fullstack applications using **React** and **Django**.
-- Building dynamic user interfaces with **Tailwind CSS**.
-- Working on scalable APIs with **PostgreSQL** and **Docker**.
-- Exploring **CI/CD pipelines** for smooth deployments.
+- Developing full-stack applications using **React** and **Django**.
+- Crafting dynamic user interfaces with **Tailwind CSS**.
+- Building scalable APIs with **PostgreSQL** and containerized deployments using **Docker**.
+- Experimenting with **Celery** for asynchronous task processing and **Redis** for caching & messaging.
+- Exploring **CI/CD pipelines** with tools like **GitHub Actions** for smooth and efficient deployments.
 
 ---
 
-### 🛠 Frontend tools
+### 🛠 Frontend Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -30,7 +31,6 @@
 </div>
 
 #### Tech Stack:
-
 - **React**, **Tailwind CSS**, **JavaScript**, **Axios**, **HTML & CSS**, **Git**
 
 ---
@@ -43,13 +43,11 @@
 </div>
 
 #### State Management:
-
 - **Zustand**, **Recoil**
 
 ---
 
-
-### 🔧 Backend tools
+### 🔧 Backend Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -61,9 +59,21 @@
 </div>
 
 #### Tech Stack:
-
-- **Django**, **DRF**, **PostgreSQL**, **Docker**, **Nginx**
+- **Django**, **Django REST Framework**, **PostgreSQL**, **Docker**, **Nginx**
 - **REST API**, **S3 MinIO**, **i18n**, **Git**
+
+---
+
+### 🔄 Background Processing & Caching
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Celery_Logo.svg/1024px-Celery_Logo.svg.png" title="Celery" alt="Celery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
+</div>
+
+#### Tools:
+- **Celery** for asynchronous task queues  
+- **Redis** for caching and message brokering
 
 ---
 
@@ -75,18 +85,29 @@
 </div>
 
 #### Tools:
-
 - **Vite**, **Webpack**
+
+---
+
+### 🚀 DevOps & CI/CD
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
+</div>
+
+#### Tools:
+- **GitHub Actions** for automated workflows  
+- Continuous Integration and Deployment best practices
 
 ---
 
 ### 🌟 Projects Implemented
 
-- **Dynamic Admin Panel**: Created a dynamic admin panel for managing news and media uploads with Django.
-- **Frontend Integration**: Integrated APIs from the backend into React frontend for real-time updates.
-- **Custom Maps Integration**: Implemented Yandex Maps API for supplier and branch location management.
-- **Responsive Design**: Built responsive interfaces using Tailwind CSS and React.
-- **i18n Support**: Integrated internationalization for multi-language support using i18n in React and Django.
+- **Dynamic Admin Panel**: Developed an interactive admin panel for managing news and media uploads with Django.
+- **Frontend Integration**: Seamlessly integrated backend APIs into a React frontend for real-time updates.
+- **Custom Maps Integration**: Implemented the Yandex Maps API for effective supplier and branch location management.
+- **Responsive Design**: Crafted responsive interfaces using Tailwind CSS and React for optimal user experiences.
+- **i18n Support**: Integrated internationalization in both React and Django to support multi-language projects.
 
 ---
 
@@ -121,7 +142,6 @@
   </div>
 </div>
 
-
 ---
 
 ### 📞 Contacts
@@ -131,5 +151,3 @@
 - [Telegram](https://t.me/mason_mzk)  
 - **Portfolio Website** (coming soon!)  
 - **Location**: Turkmenistan, Ashgabat.
-
----
