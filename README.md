@@ -12,7 +12,7 @@
 
 ### 🚀 What I'm Doing
 
-- Developing full-stack applications using **React** and **Django**.
+- Developing full-stack applications using **React** and **Django/FastAPI**.
 - Crafting dynamic user interfaces with **Tailwind CSS**.
 - Building scalable APIs with **PostgreSQL** and containerized deployments using **Docker**.
 - Experimenting with **Celery** for asynchronous task processing and **Redis** for caching & messaging.
