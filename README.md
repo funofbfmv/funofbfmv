@@ -1,153 +1,271 @@
-# Hey there, I'm Dmitriy
+# Hey there, I'm Dmitriy 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Django+Expert;Building+Scalable+Applications;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ0MWs1Z3N5MWRsaDBtb3JranExcTZ5MXBucjhxZXJndTBsOGlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width: 100%; max-width: 600px;" alt="Developer gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ0MWs1Z3N5MWRsaDBtb3JranExcTZ5MXBucjhxZXJndTBsOGlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Developer gif">
   </a>
 </div>
 
-**Full Stack Web Developer | Passionate About Building Scalable Applications**
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+**💼 Current Focus:**
+- 🔥 Building full-stack apps with **React** & **Django/FastAPI**
+- 🎨 Crafting beautiful UIs with **Tailwind CSS**
+- 🗄️ Designing scalable APIs with **PostgreSQL**
+- 🐳 Containerizing applications with **Docker**
+- ⚡ Implementing async processing with **Celery & Redis**
+
+</td>
+<td width="50%">
+
+**🌟 Recent Achievements:**
+- 📊 Dynamic Admin Panel Development
+- 🗺️ Custom Yandex Maps Integration  
+- 🌐 Multi-language i18n Implementation
+- 📱 Responsive Design Excellence
+- 🔄 CI/CD Pipeline Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 What I'm Doing
+## 🛠️ Tech Arsenal
 
-- Developing full-stack applications using **React** and **Django/FastAPI**.
-- Crafting dynamic user interfaces with **Tailwind CSS**.
-- Building scalable APIs with **PostgreSQL** and containerized deployments using **Docker**.
-- Experimenting with **Celery** for asynchronous task processing and **Redis** for caching & messaging.
-- Exploring **CI/CD pipelines** with tools like **GitHub Actions** for smooth and efficient deployments.
+### Frontend Technologies
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
+</div>
+
+### Backend & Database
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+<br><strong>Django</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" width="48" height="48" alt="Celery" />
+<br><strong>Celery</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+</tr>
+</table>
+</div>
+
+### DevOps & Tools
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+<br><strong>Nginx</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" width="48" height="48" alt="GitHub Actions" />
+<br><strong>Actions</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
+<br><strong>Vite</strong>
+</td>
+<td align="center" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+</div>
+
+### State Management
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://velog.velcdn.com/images/jungmin211/post/d34e3fab-2d9f-4ee0-a99f-478b1e88025f/image.png" width="60" height="30" alt="Zustand" />
+<br><strong>Zustand</strong>
+</td>
+<td align="center" width="120">
+<img src="https://recoiljs.org/img/logo.svg" width="60" height="30" alt="Recoil" />
+<br><strong>Recoil</strong>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🛠 Frontend Tools
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
 </div>
-
-#### Tech Stack:
-- **React**, **Tailwind CSS**, **JavaScript**, **Axios**, **HTML & CSS**, **Git**
-
----
-
-### 🌀 State Management Tools
 
 <div align="center">
-  <img src="https://velog.velcdn.com/images/jungmin211/post/d34e3fab-2d9f-4ee0-a99f-478b1e88025f/image.png" title="Zustand" alt="Zustand" width="80" height="40"/>
-  <img src="https://recoiljs.org/img/logo.svg" title="Recoil" alt="Recoil" width="80" height="40"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</td>
+<td width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</td>
+</tr>
+</table>
 </div>
-
-#### State Management:
-- **Zustand**, **Recoil**
 
 ---
 
-### 🔧 Backend Tools
+## 🎯 Featured Projects
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
-  <img src="https://min.io/resources/img/logo.svg" title="S3 MinIO" alt="S3 MinIO" width="40" height="40"/>
-</div>
+<table>
+<tr>
+<td width="50%">
 
-#### Tech Stack:
-- **Django**, **Django REST Framework**, **PostgreSQL**, **Docker**, **Nginx**
-- **REST API**, **S3 MinIO**, **i18n**, **Git**
+### 🔥 Dynamic Admin Panel
+**Tech Stack:** Django + React + PostgreSQL  
+- Interactive media management system
+- Real-time data synchronization
+- Custom authentication & permissions
+
+</td>
+<td width="50%">
+
+### 🗺️ Location Management System  
+**Tech Stack:** React + Yandex Maps API  
+- Interactive supplier mapping
+- Branch location tracking
+- Responsive design implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Multi-language Platform
+**Tech Stack:** Django + React + i18n  
+- Full internationalization support
+- Dynamic language switching
+- SEO-optimized content delivery
+
+</td>
+<td width="50%">
+
+### ⚡ Async Task Processing
+**Tech Stack:** Celery + Redis + Django  
+- Background job processing
+- Real-time notifications
+- Scalable message queuing
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🔄 Background Processing & Caching
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" title="Celery" alt="Celery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=funofbfmv&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-#### Tools:
-- **Celery** for asynchronous task queues  
-- **Redis** for caching and message brokering
 
 ---
 
-### 🧰 Build Tools
+## 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/dmitriy-mazurek-a69330247/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:dmitriy.mazurek@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/mason_mzk">
+<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
-
-#### Tools:
-- **Vite**, **Webpack**
-
----
-
-### 🚀 DevOps & CI/CD
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-#### Tools:
-- **GitHub Actions** for automated workflows  
-- Continuous Integration and Deployment best practices
-
 ---
-
-### 🌟 Projects Implemented
-
-- **Dynamic Admin Panel**: Developed an interactive admin panel for managing news and media uploads with Django.
-- **Frontend Integration**: Seamlessly integrated backend APIs into a React frontend for real-time updates.
-- **Custom Maps Integration**: Implemented the Yandex Maps API for effective supplier and branch location management.
-- **Responsive Design**: Crafted responsive interfaces using Tailwind CSS and React for optimal user experiences.
-- **i18n Support**: Integrated internationalization in both React and Django to support multi-language projects.
-
----
-
-### 📊 GitHub Activity
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=funofbfmv&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=radical" alt="GitHub Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer" />
 </div>
 
----
-
-### 👁 Profile Viewers
-
-<div style="text-align: center; margin: 20px 0;">
-  <div style="
-    display: inline-block; 
-    background: linear-gradient(135deg, #28a745, #218838);
-    padding: 15px 20px; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  ">
-    <img src="https://komarev.com/ghpvc/?username=funofbfmv&color=lightgrey&style=flat" 
-         alt="Profile Viewers" 
-         style="
-           display: block;
-           filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5));
-           border-radius: 4px;
-         " />
-  </div>
-</div>
-
----
-
-### 📞 Contacts
-
-- [LinkedIn](https://www.linkedin.com/in/dmitriy-mazurek-a69330247/)  
-- Gmail: dmitriy.mazurek@gmail.com  
-- [Telegram](https://t.me/mason_mzk)  
-- **Portfolio Website** (coming soon!)  
-- **Location**: Turkmenistan, Ashgabat.
+**📍 Location:** Ashgabat, Turkmenistan  
+**💼 Status:** Open to exciting opportunities  
+**🚀 Portfolio:** Coming Soon!
