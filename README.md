@@ -13,7 +13,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**Location:** Working Worldwide 
+**Location:** Working Worldwide  
 **Focus:** Scalable web applications with modern technology stack  
 **Expertise:** Full-stack development, API design, deployment automation  
 **Experience:** Building high-performance applications from concept to production
