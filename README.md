@@ -146,16 +146,6 @@
 
 ---
 
-## 🏆 Highlights
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=funofbfmv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=DC2626)
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
