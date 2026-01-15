@@ -141,13 +141,7 @@
 ## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funofbfmv&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&icon_color=DC2626&border_radius=10&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funofbfmv&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&border_radius=10" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funofbfmv&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css" height="180" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=funofbfmv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=E5E7EB&area=true&area_color=DC2626" height="180" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=funofbfmv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=E5E7EB&area=true&area_color=DC2626&height=300" alt="Contribution Graph" />
 </div>
 
 ---
